@@ -1,0 +1,15 @@
+C:\Users\Tri yoga\Documents\RPG_GAME_OOP\bin\Debug\net9.0\RPG_GAME_OOP.exe
+C:\Users\Tri yoga\Documents\RPG_GAME_OOP\bin\Debug\net9.0\RPG_GAME_OOP.deps.json
+C:\Users\Tri yoga\Documents\RPG_GAME_OOP\bin\Debug\net9.0\RPG_GAME_OOP.runtimeconfig.json
+C:\Users\Tri yoga\Documents\RPG_GAME_OOP\bin\Debug\net9.0\RPG_GAME_OOP.dll
+C:\Users\Tri yoga\Documents\RPG_GAME_OOP\bin\Debug\net9.0\RPG_GAME_OOP.pdb
+C:\Users\Tri yoga\Documents\RPG_GAME_OOP\obj\Debug\net9.0\RPG_GAME_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tri yoga\Documents\RPG_GAME_OOP\obj\Debug\net9.0\RPG_GAME_OOP.AssemblyInfoInputs.cache
+C:\Users\Tri yoga\Documents\RPG_GAME_OOP\obj\Debug\net9.0\RPG_GAME_OOP.AssemblyInfo.cs
+C:\Users\Tri yoga\Documents\RPG_GAME_OOP\obj\Debug\net9.0\RPG_GAME_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Tri yoga\Documents\RPG_GAME_OOP\obj\Debug\net9.0\RPG_GAME_OOP.sourcelink.json
+C:\Users\Tri yoga\Documents\RPG_GAME_OOP\obj\Debug\net9.0\RPG_GAME_OOP.dll
+C:\Users\Tri yoga\Documents\RPG_GAME_OOP\obj\Debug\net9.0\refint\RPG_GAME_OOP.dll
+C:\Users\Tri yoga\Documents\RPG_GAME_OOP\obj\Debug\net9.0\RPG_GAME_OOP.pdb
+C:\Users\Tri yoga\Documents\RPG_GAME_OOP\obj\Debug\net9.0\RPG_GAME_OOP.genruntimeconfig.cache
+C:\Users\Tri yoga\Documents\RPG_GAME_OOP\obj\Debug\net9.0\ref\RPG_GAME_OOP.dll
